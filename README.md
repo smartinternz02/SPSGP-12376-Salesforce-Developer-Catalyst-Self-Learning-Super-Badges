@@ -13,7 +13,9 @@ Link :- https://trailhead.salesforce.com/en/content/learn/superbadges/superbadge
 6. Test scheduling logic to confirm action gets queued
 
 Concepts Tested in This Superbadge
--> Apex Triggers
+
+Apex Triggers
+-> Apex Testing
 -> Asynchronous Apex
 -> Apex Integration
--> Apex Testing
+
